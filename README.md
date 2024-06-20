@@ -1,1 +1,2 @@
 # SerpentSaga
+SerpentSaga is a classic Snake game implemented in Python. Players control a snake on a grid, guiding it to eat food and grow longer while avoiding collisions with walls and its own tail. With each food consumed, the snake grows longer, increasing the challenge of maneuvering through the game board. SerpentSaga offers simple yet addictive gameplay, challenging players to achieve the highest score possible without crashing into obstacles.
